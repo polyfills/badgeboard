@@ -1,0 +1,67 @@
+{
+  "projects": {
+    "css-colors": {
+      "description": "CSS Color functions",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "custom-media": {
+      "description": "CSS Custom Media Polyfill",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "ecstacy": {
+      "description": "transpile JS based on user agents ",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "es6-module-crosspiler": {
+      "description": "An ES6 and CommonJS cross-compatible transpiler",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "es6-shorthands": {
+      "description": "An ES6 and CommonJS cross-compatible transpiler",
+      "maintainer": "swatinem",
+      "node": "0.11"
+    },
+    "koa-polyfills": {
+      "description": "Koa middleware for polyfills",
+      "maintainer": "jongleberry",
+      "node": "0.11"
+    },
+    "polyfills": {
+      "description": "user-agent-based polyfill combinator",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "polyfills-db": {
+      "description": "browser feature database",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "polyfills-middleware": {
+      "description": "polyfill middleware for express, etc.",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
+    "ua-supports": {
+      "description": "check if a range of user agents supports a feature",
+      "maintainer": "swatinem",
+      "node": "0.11"
+    },
+    "variables": {
+      "description": "CSS Variables polyfill",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    }
+  },
+  "maintainers": {
+    "jongleberry": {
+      "packages": 436
+    },
+    "swatinem": {
+      "packages": 98
+    }
+  }
+}
