@@ -6,7 +6,7 @@ name: polyfills
 badge_style: flat-square
 
 # meta headers in html
-title:       badgeboard
+title:       Polyfills
 description: Polyfills for the Web
 keywords:    polyfills
 
@@ -20,6 +20,7 @@ projects:
  - es6-module-crosspiler
  - custom-media
  - variables
+ - easings
  - name: polyfills-middleware
    repo: polyfills/middleware
  - name: polyfills-db
