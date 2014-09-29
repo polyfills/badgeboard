@@ -21,6 +21,7 @@ projects:
  - custom-media
  - variables
  - easings
+ - push-polyfills
  - name: polyfills-middleware
    repo: polyfills/middleware
  - name: polyfills-db

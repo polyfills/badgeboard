@@ -49,15 +49,20 @@
     "polyfills": {
       "description": "user-agent-based polyfill combinator",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "polyfills-db": {
       "description": "browser feature database",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "polyfills-middleware": {
       "description": "polyfill middleware for express, etc.",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
+    "push-polyfills": {
+      "description": "SPDY Push Polyfill",
       "maintainer": "jongleberry",
       "node": "0.10"
     },
