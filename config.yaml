@@ -22,6 +22,7 @@ projects:
  - variables
  - easings
  - push-polyfills
+ - paas
  - name: polyfills-middleware
    repo: polyfills/middleware
  - name: polyfills-db
