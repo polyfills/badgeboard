@@ -46,6 +46,11 @@
       "maintainer": "jongleberry",
       "node": "0.11"
     },
+    "paas": {
+      "description": "Polyfill as a Service",
+      "maintainer": "jongleberry",
+      "node": "0.11"
+    },
     "polyfills": {
       "description": "user-agent-based polyfill combinator",
       "maintainer": "jongleberry",
