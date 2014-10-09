@@ -16,7 +16,6 @@ projects:
  - ecstacy
  - polyfills
  - ua-supports
- - es6-shorthands
  - es6-module-crosspiler
  - custom-media
  - variables
