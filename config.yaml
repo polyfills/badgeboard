@@ -22,6 +22,7 @@ projects:
  - easings
  - push-polyfills
  - paas
+ - es7-async-fn
  - name: polyfills-middleware
    repo: polyfills/middleware
  - name: polyfills-db

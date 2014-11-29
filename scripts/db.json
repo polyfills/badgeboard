@@ -29,10 +29,15 @@
     "ecstacy": {
       "description": "transpile JS based on user agents ",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "es6-module-crosspiler": {
       "description": "An ES6 and CommonJS cross-compatible transpiler",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "es7-async-fn": {
+      "description": "Transformer that converts async functions and await expressions into ECMAScript 6 generator functions and yield expressions",
       "maintainer": "jongleberry",
       "node": "0.8"
     },
