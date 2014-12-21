@@ -15,12 +15,10 @@ keywords:    polyfills
 projects:
  - ecstacy
  - polyfills
- - ua-supports
  - es6-module-crosspiler
  - custom-media
  - variables
  - easings
- - push-polyfills
  - paas
  - es7-async-fn
  - name: polyfills-middleware

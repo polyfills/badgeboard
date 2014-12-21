@@ -39,7 +39,7 @@
     "es7-async-fn": {
       "description": "Transformer that converts async functions and await expressions into ECMAScript 6 generator functions and yield expressions",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "koa-polyfills": {
       "description": "Koa middleware for polyfills",
@@ -65,16 +65,6 @@
       "description": "polyfill middleware for express, etc.",
       "maintainer": "jongleberry",
       "node": "0.10"
-    },
-    "push-polyfills": {
-      "description": "SPDY Push Polyfill",
-      "maintainer": "jongleberry",
-      "node": "0.10"
-    },
-    "ua-supports": {
-      "description": "check if a range of user agents supports a feature",
-      "maintainer": "swatinem",
-      "node": "0.11"
     },
     "variables": {
       "description": "CSS Variables polyfill",
